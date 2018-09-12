@@ -9,7 +9,7 @@ This is where all of our stuff will go!
 # Hello Python 
 
 ## Code
-[This is our code for Hello Python] (/blob/master/Python/lesson00.py)
+[This is our code for Hello Python] (Python/lesson00.py)
 ## Lessons Learned
 We learned how to make a "While" statement. We didn't know how to do user input at first, but we looked it up and and figured out which user input style was fit for our code.
 
