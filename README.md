@@ -16,7 +16,7 @@ We learned how to make a "While" statement. We didn't know how to do user input 
 # Python Calculator
 
 ## Code
-[This is our code for Python Calculator] (../blob/master/Python/lesson01.py)
+[This is our code for Python Calculator] ( /blob/master/Python/lesson01.py)
 ## Lessons Learned
 We did not realize that you could not use strings for math in python, so we had to return it as an integer. We were aslo supposed to round the quotient to two places and we didn't know how to do that. So we had to look up how to round in Python and it was easier than we thought, but it put the number two instead of rounding it to two places. We figured out that it was not supposed to be in the print but in the return instead.
 
