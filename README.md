@@ -9,7 +9,7 @@ This is where all of our stuff will go!
 # Hello Python 
 
 ## Code
-[This is our code for Hello Python] (lesson00.py)
+[This is our code for Hello Python] <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/lesson00.py>
 ## Lessons Learned
 We learned how to make a "While" statement. We didn't know how to do user input at first, but we looked it up and and figured out which user input style was fit for our code.
 
@@ -23,6 +23,6 @@ We did not realize that you could not use strings for math in python, so we had 
 # Python Quadractic Sovler
 
 ## Code
-[This is our code for Quadratic Solver] (/blob/master/Python/Quadsovler.py)
+[This is our code for Quadratic Solver] <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/QuadSolver.py>
 ## Lessons Learned
 First we had to refresh our memories of what a discriminant was and how to solve them. We didn't know that we had to use an array for the quadradtic formula in order for it print both roots, but that was an easy fix. We had a hard time coming up with what to say when they got their roots. 
