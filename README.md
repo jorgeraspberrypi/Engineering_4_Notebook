@@ -26,3 +26,4 @@ We did not realize that you could not use strings for math in python, so we had 
 This is our code for Quadratic Solver: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/QuadSolver.py>
 ## Lessons Learned
 First we had to refresh our memories of what a discriminant was and how to solve them. We didn't know that we had to use an array for the quadradtic formula in order for it print both roots, but that was an easy fix. We had a hard time coming up with what to say when they got their roots. 
+ 
