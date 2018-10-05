@@ -11,7 +11,7 @@ guess = input("Player 2, guess a letter")
 guessniw = []
 guessiw = []
 
-
+if letter in word:
     guessiw.append("_")
 
 def printguy(t):
@@ -72,7 +72,8 @@ while turns < 8:
     print(guessiw)
     guess = input("Player 2, guess another letter")
 
-
+def guessiw():
+    
 
 
 for letter in word:
