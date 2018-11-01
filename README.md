@@ -45,3 +45,25 @@ This is our code for MSP: <https://github.com/jorgeraspberrypi/Engineering_4_Not
 
 ## Lessons Learned
 We learned how to use appends and at first we used a "break", but later deleted it because it didn't work with our code. We decided to wrote the guy row by row in a function which took a long time but was pretty easy to understand. We also had trouble seeing which words were guessed right and wrong and we also had problems with the corect letters going into the right blanks. Lines 15 and 16 is where we put the blanks.
+
+# GPIO Bash
+
+## Code 
+gpio mode 0 out
+gpio write 0 1
+
+## Lessons Learned
+In general, we did not have many struggles because the code was given to us, but we did need to remind ourselves of how to wire and LED and we had to look up the pin numbetrs because they are different from Arduino. Another thing we learned was a short cut to get to the manual. "man gpio" takes us to the Terminal GPIO manual page where we learned that "-g" allows us to use the numbers on the T-Cobbler.
+
+
+# GPIO SSH
+
+## Code
+hostname -I
+sudo raspi-config
+.
+.
+gpio mode 0 out
+gpio write 0 1
+
+## Lessons Learned
