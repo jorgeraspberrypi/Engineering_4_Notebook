@@ -75,15 +75,20 @@ while turns < 8:
     printguy(turns)
     print(guessniw)
     print(guessiw)
+    
+    if "_" not in guessiw:
+        print ("YOU WON! Good job!")
+        break
     guess = input("Player 2, guess another letter")
+    
 
 if guessiw == word:
     print("You got the word! Cool Bro!")
 
-    
+
 if turns == 8:
     print("GAME OVER!! You LOST ha ha ha. Go cry in a hole. ")
-
+    print("word was: " + word)
     
 
 
