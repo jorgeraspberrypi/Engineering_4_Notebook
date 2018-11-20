@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request.1" 
+from flask import Flask, render_template, request
 import RPi.GPIO as GPIO
 
 GPIO.setwarnings(False)
@@ -8,35 +8,35 @@ GPIO.setup(27,GPIO.OUT)
 
 app = Flask(__name__)
 
+GPIO.output(17,GPIO.LOW)
+
 @app.route("/", methods=["GET","POST"])
 def index():
 	if request.method == "POST":
 		print request.form
-		formmsg1 = request.form.get("submitBtn1")
-		formmsg2 = request.form.get("submitBtn2")
-		if formmsg1 == "You clicked RED":
-			if GPIO.input(17):
+		msg1 = request.form.get("submitBtn1")
+		msg2 = request.form.get("submitBtn2")
+		if msg1 == "You clicked RED":
+			if GPIO.input(17) & GPIO.input(27):
 				GPIO.output(17,GPIO.LOW)
+				msg1 = "CLick to turn on."
+				msg2 = "Click to turn on."
 			else:
 				GPIO.output(17,GPIO.HIGH)
-		if formmsg2 == "You clicked BLUE":
+				GPIO.output(27,GPIO.HIGH)
+				msg1 == "CLick to turn off."
+				msg2 = "something"
+		if msg2 == "You clicked BLUE":
 			if GPIO.input(27):
 				GPIO.output(27,GPIO.LOW)
+				msg2 = "CLick to turn on."
 			else:
 				GPIO.output(27,GPIO.HIGH)
-		if GPIO.input(17):
-			msg1 = "Click to turn off"
-		else:
-			msg1 = "Click to turn on."
-		if GPIO.input(27):
-			msg2 = "Click to turn off."
-		else:
-			msg2 = "Click to turn on."
+				msg2 = "Click to turn off."
 	else:
 		msg1 = "No click yet."
 		msg2 = "NO click yet."
 	return render_template("index.html",msg1=msg1,msg2=msg2)
-	
 
 if __name__ == "__main__":
 	app.run(host="0.0.0.0", port=80)
