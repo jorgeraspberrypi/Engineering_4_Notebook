@@ -45,10 +45,15 @@ In general, we did not have many struggles because the code was given to us, but
 # GPIO SSH
 ## Code
 hostname -I
+
 sudo raspi-config
+
 .
+
 .
+
 gpio mode 0 out
+
 gpio write 0 1
 ## Lessons Learned
 
