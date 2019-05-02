@@ -67,3 +67,27 @@ gpio mode 0 out
 gpio write 0 1
 
 ## Lessons Learned
+
+
+# Hello Flask
+
+## Code
+This is our code for Hello Flask: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py>
+<https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app2.py>
+
+## Lesssons Learned
+We had some problems with both buttons working the messages displayed on both buttons befor and after they were clicked.
+
+# GPIO- Flask
+
+## Code 
+This is our code for GPIO Pins- Flask <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/Flask/gpio/templates/index.html>
+
+## Lessons Learned
+
+
+#GPIO- 12C
+
+## Code
+Here is our code for GPIO- 12C <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/12C.py>
+
