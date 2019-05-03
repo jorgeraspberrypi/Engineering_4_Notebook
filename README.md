@@ -74,9 +74,25 @@ This is our code for GPIO Pins- Flask <https://github.com/jorgeraspberrypi/Engin
 ### Code
 Here is our code for GPIO- 12C <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/12C.py>
 
+## Headless
+### Code
+### Lessons Learned
+
 ## Pi Camera
 ### Code
 ### Lessons Learned
+
+## Hack Your Stuff
+### Code
+### Lessons Learned
+
+## Copypasta
+### Code
+### Lessons Learned
+
+
+
+
 
 
 
