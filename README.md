@@ -79,10 +79,10 @@ Here is our code for GPIO- 12C <https://github.com/jorgeraspberrypi/Engineering_
 <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/Alarm.py>
 ### Lessons Learned
 We had some problems figuring out how to wire the alarm, but we ended up getting a new one and soldered wires to them. After that, we are able to wire them to the bread board.
-## Button Alarm
-### Code 
+### Button Alarm
+#### Code 
 <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/ButtonAlarm.py>
-### Lessons Learned
+#### Lessons Learned
 Because we figured out the wiring situation when we did the Alarm without the button, we were able to change the code around a little bit.
 
 ## 
