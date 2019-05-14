@@ -79,20 +79,25 @@ Here is our code for GPIO- 12C <https://github.com/jorgeraspberrypi/Engineering_
 <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/Alarm.py>
 ### Lessons Learned
 We had some problems figuring out how to wire the alarm, but we ended up getting a new one and soldered wires to them. After that, we are able to wire them to the bread board.
-### Button Alarm
-#### Code 
+
+## Alarm- Button
+### Code 
 <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/ButtonAlarm.py>
-#### Lessons Learned
+### Lessons Learned
 Because we figured out the wiring situation when we did the Alarm without the button, we were able to change the code around a little bit.
 
-## 
+## Copy Pasta- Parnet Dectector
 ### Code
+<https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/parent-detector.py>
 ### Lessons Learned
+We had some trouble getting the actual sensor to work. It would only sense things if it was in a specific positon. We found out that the sensitivity was really high so wer turned it down with a screwdriver. After that the sensor was working normally and we were able to finish the project.
 
-## 
+## Copy Pasta- Animation 
 ### Code
+<https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/animation3.mp4>
+<https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/stop-motion.py>
 ### Lessons Learned
-
+At first we did not have many problems with this, we finshed the code fairly quickly and took the photos. However, when we tried to make all of the photos into a video it wouldn't allow us. We found out that the we took too many pictures and the files were too big to make into a movie. It would keep loading and loading but eventually it would stop. At some points it would work but it would only include a few frames. Dr. Sheilds told us some programs to run that would allow us to turn the bigger files into the movie but that would not work either. We even tried to update pi, but we still got the same results. Sadly the we could not get the full video, so the fist link (our link 
 ## 
 ### Code
 ### Lessons Learned
