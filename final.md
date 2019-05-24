@@ -1,4 +1,4 @@
-# Your legacy
+# Our legacy
 1. Actually do your work
 2. Ask for help when you are stuck 
 3. Remember to always have your SolidWorks ratio 1:1 and the dimensions are 3000 x 600
