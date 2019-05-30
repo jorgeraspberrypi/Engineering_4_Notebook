@@ -98,8 +98,12 @@ https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/an
 <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/stop-motion.py>
 ### Lessons Learned
 At first we did not have many problems with this, we finshed the code fairly quickly and took the photos. However, when we tried to make all of the photos into a video it wouldn't allow us. We found out that the we took too many pictures and the files were too big to make into a movie. It would keep loading and loading but eventually it would stop. At some points it would work but it would only include a few frames. Dr. Sheilds told us some programs to run that would allow us to turn the bigger files into the movie but that would not work either. Eventually after lots of loading, we got all of our files in one video but the frames per second were super fast. We then had to slow all the frames fown which took a lot of time but it worked. 
-## 
+
+## Pi Camera 
 ### Code
+Here is our code for Camera Test 1: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/camera_test1.py>
+Here is our code for Camera Test 2: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/camera_test2.py>
+Here is our code for Camera Test 3: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/camera_test32.py>
 ### Lessons Learned
 
 
