@@ -105,7 +105,7 @@ Here is our code for Camera Test 1: <https://github.com/jorgeraspberrypi/Enginee
 Here is our code for Camera Test 2: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/camera_test2.py>
 Here is our code for Camera Test 3: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/camera_test32.py>
 ### Lessons Learned
-
+We were able to get through these assignments pretty quickly. But theese assignments did help us for when we did our stop motion assignment.
 
 
 
