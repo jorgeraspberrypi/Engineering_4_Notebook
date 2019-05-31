@@ -107,7 +107,23 @@ Here is our code for Camera Test 3: <https://github.com/jorgeraspberrypi/Enginee
 ### Lessons Learned
 We were able to get through these assignments pretty quickly. But theese assignments did help us for when we did our stop motion assignment.
 
+## GPIO LED
+### Code
+Here is our code for the GPIO LED: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/GPIO_LEDs.py>
+## Lessons Learned
+We learned what the pins are in the GPIO board since they do not have lables on the actual thing. 
 
+## Headless
+## Code 
+Here is our Headless code: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/Headless.py>
+## Lessons Learned
+We learned about Github libraries and how to import things that would show up on the screen. This was also the first time we were writing code that dealt with display and how things looked, so we had to do some research on how to order things and the range of some numbers. For instance, the fill only goes upto 255 and when making deminsions, the width comes before the height. 
+
+## Dice Roller
+## Code 
+Here is the code for our dice roller: <https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/lesson00.py>
+## Lessons Learned
+This was one of our first assignments we did with python, so eventhough the code was short and simple. We were still learning the basics. This was also a good refresher from last year because we were using "while" statements, "from" statements, and "if" statements.
 
 
 
